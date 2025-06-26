@@ -1,5 +1,5 @@
 ---
-title: "클린 아키텍처 01. 계층형 아키텍처의 문제는 무엇일까?"
+title: "[클린 아키텍처] 01. 계층형 아키텍처의 문제는 무엇일까?"
 date: 2025-06-26 20:00:00 +0900
 categories: [book, clean architecture]
 tags: [architecture, study]
