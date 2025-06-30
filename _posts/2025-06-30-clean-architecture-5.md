@@ -19,9 +19,7 @@ image: /assets/img/study/clean_architecture/thumbnail.jpg
 
 의존성 역전 원칙이 적용될 것도 확인할 수 있다. 아래 그림과 같이 제어 흐름이 왼쪽에서 오른쪽으로 흐르기 때문에 웹 어댑터가 유스케이스를 직접 호출할 수 있다.
 
-<p align="center">
-  <img src="/assets/img/study/clean_architecture/example_image_5_2.png">
-</p>
+![그림5.1](/assets/img/study/clean_architecture/example_image_5_2.png)
 
 그럼 어댑터와 유스케이스 사이에 또 다른 간접 계층이 왜 필요한 걸까? 애플리케이션 코어가 외부 세계와 통신할 수 있는 곳에 대한 명세가 포트이기 때문이다. 적절한 곳에 포트가 위치하면 외부와 어떤 통신이 일어나고 있는지 정확히 알 수 있고, 이는 유지보수에 도움이 된다.
 
