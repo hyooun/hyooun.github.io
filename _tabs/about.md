@@ -8,20 +8,19 @@ order: 4
 
 # 🔎 Profile
 ### 🎓 학력
-강원대학교 컴퓨터과학과  2018.03 - 2024.02 </br>
+강원대학교 컴퓨터과학과  2018.03 - 2024.02  
 서울삼육고등학교  2015.03 - 2018.02
 
 ### 🧾 자격증
-ADsP  2025.06 </br>
-SQLD  2024.06 </br>
+ADsP  2025.06  
+SQLD  2024.06  
 정보처리기사  2023.11
 
 ### 💻 교육 이수
 삼성 청년 SW 아카데미(SSAFY) 11기 2024.01 - 2024.12
 
 # ⚒️ Skills
-### Lv.1
-
+### Lv.1  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -31,8 +30,7 @@ SQLD  2024.06 </br>
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Lv.2
-
+### Lv.2  
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
