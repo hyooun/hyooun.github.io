@@ -1,6 +1,6 @@
 ---
 title: "[만들면서 배우는 클린 아키텍처] 11. 의식적으로 지름길 사용하기"
-date: 2025-07-10 01:37:07 +0900
+date: 2025-07-10 13:37:07 +0900
 categories: [book, 만들면서 배우는 클린 아키텍처]
 tags: [architecture, study]
 image: /assets/img/study/clean_architecture/thumbnail.jpg
