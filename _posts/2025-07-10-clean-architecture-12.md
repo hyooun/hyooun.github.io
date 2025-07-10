@@ -1,6 +1,6 @@
 ---
 title: "[만들면서 배우는 클린 아키텍처] 12. 아키텍처 스타일 결정하기"
-date: 2025-07-10 01:37:07 +0900
+date: 2025-07-10 14:04:07 +0900
 categories: [book, 만들면서 배우는 클린 아키텍처]
 tags: [architecture, study]
 image: /assets/img/study/clean_architecture/thumbnail.jpg
