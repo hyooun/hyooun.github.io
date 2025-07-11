@@ -1,25 +1,25 @@
 ---
-icon: fas fa-file-alt
+icon: fas fa-id-card
 order: 4
 ---
 
 > 도전하며 성장하는 개발자 유승현입니다.
 {: .prompt-info}
 
-# 🔎 Profile
-### 🎓 학력
+## 🎓 학력
 강원대학교 컴퓨터과학과  2018.03 - 2024.02  
 서울삼육고등학교  2015.03 - 2018.02
 
-### 🧾 자격증
+## 🧾 자격증
+빅데이터분석기사  2025.07
 ADsP  2025.06  
 SQLD  2024.06  
 정보처리기사  2023.11
 
-### 💻 교육 이수
+## 💻 교육 이수
 삼성 청년 SW 아카데미(SSAFY) 11기 2024.01 - 2024.12
 
-# ⚒️ Skills
+## ⚒️ Skills
 
 ### Lv.1
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
